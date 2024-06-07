@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iyKWB/M3f8RtR6fj85h8nJSPcLZHcnHZUyMe31ayEF3Hn0dD4AYef7NBsZ2XMENHIaDFLW0EwRrldB4I8qfI2A==",
+  "success": false,
+  "projectFilePath": "E:\\programming\\C#\\New folder\\Hangman\\Hangman.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "System.Data.SqlClient"
+    }
+  ]
+}
